@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 Visitor No. <img src="https://profile-counter.glitch.me/Shriyash-Jagtap/count.svg">, I'm Aum Thaker / Shy</h1>
+<h3 align="center">A passionate Programmer</h3>
 
-<!--
-**Amth274/Amth274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shriyash-Jagtap" alt="Shriyash-Jagtap" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Custom LLMs**
+- 🌱 I’m currently learning **LLMs and Flutter**
+- 👯 I’m looking to collaborate on **Python/Flutter/Firebase**
+- 🤝 I’m looking for help with **LLMs**
+- 📫 How to reach me **jagtapshriyash2@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/shriyash_jagtap" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@shriyash_jagtap" />
+  </a>
+  <a href="https://discord.gg/damnshy" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="damnshy" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  <!-- Add icons in a more organized grid layout here -->
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shriyash-Jagtap&show_icons=true&locale=en&layout=compact" alt="Shriyash-Jagtap" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriyash-Jagtap&" alt="Shriyash-Jagtap" /></p>
+
+[![Shriyash-Jagtap's GitHub | Stats](https://stats.quine.sh/Shriyash-Jagtap/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shriyash-Jagtap)
