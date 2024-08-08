@@ -33,5 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shriyash-Jagtap&show_icons=true&locale=en&layout=compact" alt="Shriyash-Jagtap" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriyash-Jagtap&" alt="Shriyash-Jagtap" /></p>
-
-[![Shriyash-Jagtap's GitHub | Stats](https://stats.quine.sh/Shriyash-Jagtap/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shriyash-Jagtap)
+[![Aum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amth274)](https://github.com/Amth274/github-readme-stats)
+<!-- [![Shriyash-Jagtap's GitHub | Stats](https://stats.quine.sh/Shriyash-Jagtap/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shriyash-Jagtap) -->
