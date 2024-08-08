@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Visitor No. <img src="https://profile-counter.glitch.me/Amth274/count.svg">, I'm Aum Thaker / Shy</h1>
+<h1 align="center">Hi 👋 Visitor No. <img src="https://profile-counter.glitch.me/Amth274/count.svg">, I'm Aum Thaker</h1>
 <h3 align="center">A passionate Programmer</h3>
 
 <p align="left">
