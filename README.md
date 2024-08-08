@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amth274&" alt="Amth274" /></p>
 
-[![Amth274's GitHub | Stats](https://stats.quine.sh/Amth274/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Amth274)
+[![Amth274's GitHub | Stats](https://stats.quine.sh/Shriyash-Jagtap/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shriyash-Jagtap)
