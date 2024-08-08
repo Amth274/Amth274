@@ -30,8 +30,8 @@
   <!-- Add icons in a more organized grid layout here -->
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amth274&show_icons=true&locale=en&layout=compact" alt="Amth274" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shriyash-Jagtap&show_icons=true&locale=en&layout=compact" alt="Amth274" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amth274&" alt="Amth274" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriyash-Jagtap&" alt="Amth274" /></p>
 
-[![Amth274's GitHub | Stats](https://stats.quine.sh/Shriyash-Jagtap/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shriyash-Jagtap)
+[![Amth274's GitHub | Stats](https://stats.quine.sh/Shriyash-Jagtap/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Amth274)
