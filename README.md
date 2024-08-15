@@ -30,7 +30,7 @@
   <!-- Add icons in a more organized grid layout here -->
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shriyash-Jagtap&show_icons=true&locale=en&layout=compact" alt="Amth274" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amth274&show_icons=true&locale=en&layout=compact" alt="Amth274" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriyash-Jagtap&" alt="Amth274" /></p>
 
