@@ -62,6 +62,17 @@
 
 ---
 
+# 🧠 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
 # 🧠 Most Used Languages
 
 <p align="center">
