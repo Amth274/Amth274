@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Aum Thaker</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Building+Custom+LLMs;Flutter+Learner;Python+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Custom+LLM+Developer;Flutter+Learner;Python+Enthusiast" />
 </p>
 
-<h3 align="center">🚀 A passionate Programmer from India</h3>
+<h3 align="center">🚀 A passionate programmer building cool things</h3>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/Amth274/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=Amth274&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 * 🔭 I’m currently working on **Custom LLMs**
 * 🌱 I’m currently learning **Flutter**
-* 👯 I’m looking to collaborate on **Python Projects**
-* 🤝 I’m looking for help with **LLM Development**
+* 👯 I’m looking to collaborate on **Python projects**
+* 🤝 I’m looking for help with **LLMs**
 * 📫 Reach me at **[225100006@iitdh.ac.in](mailto:225100006@iitdh.ac.in)**
 
 ---
@@ -27,13 +27,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/" target="blank">
+
+<a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/aum1740" target="blank">
+<a href="https://discord.gg/aum1740" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -52,9 +54,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amth274&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amth274&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amth274&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Amth274&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,7 +94,13 @@
 
 # 📊 Extra Stats
 
-[![Amth274's GitHub | Stats](https://stats.quine.sh/Amth274/github?theme=dark)](https://quine.sh)
+<p align="center">
+
+<a href="https://quine.sh">
+<img src="https://stats.quine.sh/Amth274/github?theme=dark"/>
+</a>
+
+</p>
 
 ---
 
