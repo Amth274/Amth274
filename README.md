@@ -1,118 +1,36 @@
-<h1 align="center">Hi 👋 I'm Aum Thaker</h1>
+# Aum Thaker
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Custom+LLM+Developer;Flutter+Learner;Python+Enthusiast" />
-</p>
+ML Systems & Infrastructure Engineer focused on transformer optimization, efficient training, and LLM inference systems.
 
-<h3 align="center">🚀 A passionate programmer building cool things</h3>
+## Interests
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amth274&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+* LLM inference optimization
+* CUDA kernel development
+* Distributed training systems
+* Quantization & memory optimization
+* Static graph execution
+* Efficient transformer architectures
 
----
+## Selected Projects
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+### Static Deep Learning Compiler
 
-### 👨‍💻 About Me
+Custom deep learning compiler with unified CPU-GPU backend, CUDA kernels, async memory allocation, and static graph optimization.
 
-* 🔭 I’m currently working on **Custom LLMs**
-* 🌱 I’m currently learning **Flutter**
-* 👯 I’m looking to collaborate on **Python projects**
-* 🤝 I’m looking for help with **LLMs**
-* 📫 Reach me at **[225100006@iitdh.ac.in](mailto:225100006@iitdh.ac.in)**
+### Mistral-7B Fine-Tuning & Deployment
 
----
+Parameter-efficient fine-tuning and low-latency inference deployment pipeline using A100 GPUs, Docker, and AWS EC2.
 
-# 🌐 Connect With Me
+### Scaling Laws for Language Models
 
-<p align="left">
+Large-scale experimentation framework analyzing compute-performance tradeoffs across 100M–3B parameter transformer models.
 
-<a href="https://twitter.com/" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+## Tech Stack
 
-<a href="https://discord.gg/aum1740" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+Python • CUDA C++ • PyTorch • TensorRT • Docker • AWS • MLflow • FAISS
 
-</p>
+## Links
 
----
-
-# 🧰 Languages and Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,flutter,dart,git,github,linux,vscode,tensorflow,pytorch&perline=6" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amth274&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img src="https://streak-stats.demolab.com?user=Amth274&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🧠 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amth274&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amth274&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amth274&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Extra Stats
-
-<p align="center">
-
-<a href="https://quine.sh">
-<img src="https://stats.quine.sh/Amth274/github?theme=dark"/>
-</a>
-
-</p>
-
----
-
-⭐ From [Amth274](https://github.com/Amth274)
+* LinkedIn: [your-link]
+* Resume: [your-link]
+* Email: [aummthaker@gmail.com](mailto:aummthaker@gmail.com)
