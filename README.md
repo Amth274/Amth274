@@ -31,6 +31,5 @@ Python • CUDA C++ • PyTorch • TensorRT • Docker • AWS • MLflow • F
 
 ## Links
 
-* LinkedIn: [your-link]
-* Resume: [your-link]
+
 * Email: [aummthaker@gmail.com](mailto:aummthaker@gmail.com)
